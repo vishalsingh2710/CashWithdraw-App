@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CashWithdraw-App/static/css/main.fff74b33.css",
+    "main.js": "/CashWithdraw-App/static/js/main.a4357b38.js",
+    "index.html": "/CashWithdraw-App/index.html",
+    "main.fff74b33.css.map": "/CashWithdraw-App/static/css/main.fff74b33.css.map",
+    "main.a4357b38.js.map": "/CashWithdraw-App/static/js/main.a4357b38.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fff74b33.css",
+    "static/js/main.a4357b38.js"
+  ]
+}
